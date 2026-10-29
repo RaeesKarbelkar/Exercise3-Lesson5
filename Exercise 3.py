@@ -22,7 +22,7 @@ personalized_greeting("Raees")
 def square(num):
     print(num**2)
 # TODO: Call the 'square' function with the number 5 and print the result
-square(6)
+square(5)
 
 #------------------------------------------------------------------------------------
 # Question 4: Function with Multiple Parameters and Return Value
